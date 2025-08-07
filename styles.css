@@ -14,7 +14,7 @@
 body {
     background-color: var(--bg-color);
     color: var(--text-color);
-    font-family: 'Bauhaus 93', 'Noto Sans', sans-serif;
+    font-family: 'Righteous', sans-serif;
     min-height: 100vh;
     background-image: url('/fondo.jpg');
     background-size: cover;
